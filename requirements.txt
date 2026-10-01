@@ -1,0 +1,9 @@
+yfinance
+tensorflow>=2.15
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+streamlit
+jupyter
